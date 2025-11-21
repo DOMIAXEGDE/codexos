@@ -1,5 +1,5 @@
 This document serves as the technical manual and installation manifesto for the system we have constructed. It encapsulates the architectural philosophy (0.7 Rigidity / 0.3 Flexibility), the micro-modular plugin structure, and the operational protocols for the Turing-complete feedback loop.
-
+> Prompt Engineered by Dominic Alexander Cooper Cert HE (Open) 2025
 -----
 
 # CODEXOS // Micro-Modular Web Operating System
